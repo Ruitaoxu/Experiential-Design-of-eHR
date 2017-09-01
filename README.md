@@ -1,4 +1,16 @@
-## 体验式eHR产品设计
+# 体验式eHR产品设计
+
+## 源起篇
+### 互联网变革下的人力资源变革
+### 人力资源管理转型下的三支柱
+### eHR建设经历的三个阶段
+- Bulleted
+- Bulleted
+- Bulleted
+提出体验式eHR产品设计的构思和框架
+## 实践篇
+### 
+## 体验篇
 
 You can use the [editor on GitHub](https://github.com/Ruitaoxu/Experiential-Design-of-eHR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
